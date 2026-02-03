@@ -1,0 +1,7 @@
+print("Enter your name")
+name = input()
+print("Enter your age")
+age = input()
+print("are you a active user? (True/false)")
+is_active = input()
+print("User {name} is {age} years.old. Active status {is_active}")
